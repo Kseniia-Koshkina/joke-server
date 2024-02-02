@@ -1,0 +1,13 @@
+[
+    {
+        "_id":0,
+        "category": "British humor",
+        "jokes":[0,1]
+    },
+    {
+        "_id":1,
+        "category": "Mathematical",
+        "jokes":[]
+    }
+
+]
